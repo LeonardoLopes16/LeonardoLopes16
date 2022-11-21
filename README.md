@@ -4,7 +4,7 @@
 [![Linkedin](
 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lopes-3299b5223/)
      [![Discord](
-	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1044392017658126396/1044394345719136296)
+	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TjvCfA4X)
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoLopes16&show_icons=true&theme=dracula)
 
