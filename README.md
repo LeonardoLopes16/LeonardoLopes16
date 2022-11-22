@@ -15,4 +15,11 @@
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
+</div><br/>
+
+Sempre fui muito curioso na área de programação, em meio a época de pandemia comecei a estudar python e nunca mais parei de me interessar pela área de TI.
+Hoje faço faculdade de Ciência da Computação na Universidade Cruzeiro do sul, e faço parte da Formação de Tecnologia(Full stack) da Escola DNC.
+
+## Email para contato:
+[![Gmail](
+	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leuuu1010@gmail.com)
