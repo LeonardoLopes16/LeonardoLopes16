@@ -22,4 +22,4 @@ Hoje faço faculdade de Ciência da Computação na Universidade Cruzeiro do sul
 
 ## Email para contato:
 [![Gmail](
-	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leuuu1010@gmail.com)
+	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leuuu1010@gmail.com)
